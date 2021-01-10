@@ -1,6 +1,3 @@
-[My blog](https://blog.yungeeker.com)
+[Blog](https://ygk-blog.yunser.com)
 
-- 🔭 I’m currently working on React & React-Native.
-- 🌱 I’m currently learning for Gao Kao.
-- 📫 How to reach me: twitter@rea1DonandTrump.
-- 😄 Pronouns: he/him
+来自中国成都的高中生。两年码年龄。只有周末和节假日有时间，想找一起写项目的朋友。
