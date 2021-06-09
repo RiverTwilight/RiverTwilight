@@ -2,7 +2,9 @@
 
 A high school student from Chengdu, China. Coding for two years. I only have time on weekends and holidays, and I want to find friends to write projects together.
 
-#### Find me
+![](https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
+
+### Find me
 
 [![](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/rea1DonandTrump)
 [![](https://img.shields.io/badge/-Blog-21759B?style=flat-square&logo=wordpress&logoColor=white)](https://blog.yungeeker.com)
