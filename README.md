@@ -15,9 +15,9 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?&logo=android-studio&logoColor=#ffffff)](https://code.visualstudio.com/)
 
+[![](https://img.shields.io/badge/Android-Kotlin-blueviolet?logo=android)](https://developer.android.com)
 [![](https://img.shields.io/badge/-Next.js-black)](https://nextjs.org/)
 [![](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![](https://img.shields.io/badge/Android-Kotlin-blueviolet?logo=android)](https://developer.android.com)
 [![](https://img.shields.io/badge/-Node.js-43853d?&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-NPM-cb3837?&logo=npm&logoColor=white)](https://npmjs.com/)
