@@ -1,6 +1,4 @@
-来自中国成都的高中生。两年码龄。只有周末和节假日有时间，想找一起写项目的朋友。
-
-A high school student from Chengdu, China. Coding for two years. I only have time on weekends and holidays, and I want to find friends to write projects together.
+# 奋战2022高考! FIGHT FOR 2022 GAOKAO 
 
 ![](https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
 
