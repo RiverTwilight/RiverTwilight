@@ -27,3 +27,4 @@
 [![](https://img.shields.io/badge/-Express.js-f7f7f7?style=flat-square)](https://expressjs.com/)
 
 
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
