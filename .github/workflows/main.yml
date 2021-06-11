@@ -15,7 +15,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_screenshot: yes
-          plugin_screenshot_title: XKCD of the day  # Section title
+          plugin_screenshot_title: Screenshot of Ygktool.cn  # Section title
           plugin_screenshot_url: https://www.ygktool.cn   # Website url
           plugin_screenshot_selector: "body"  # CSS selector to take into screenshot
           plugin_screenshot_background: no          # Remove page background
