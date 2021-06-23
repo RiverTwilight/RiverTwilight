@@ -15,11 +15,11 @@
 [![](https://img.shields.io/badge/-CSS3-1572B6?&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
 [![](https://img.shields.io/badge/-Sass-cc6699?logo=sass&logoColor=white)](https://sass-lang.com/)
 [![](https://img.shields.io/badge/-Next.js-black)](https://nextjs.org/)
-[![](https://img.shields.io/badge/-React.js-43853d?&logo=react&logoColor=ffffff)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-React.js-61dafb?&logo=react&logoColor=000)](https://reactjs.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 [![](https://img.shields.io/badge/-NPM-cb3837?&logo=npm&logoColor=white)](https://npmjs.com/)
 [![](https://img.shields.io/badge/-Git-f05032?&logo=git&logoColor=white)](https://git-scm.com/)
-[![](https://img.shields.io/badge/-Express.js-f7f7f7?style=flat-square)](https://expressjs.com/)
+[![](https://img.shields.io/badge/-Express.js-f7f7f7)](https://expressjs.com/)
 
 ### Find me
 
