@@ -1,7 +1,5 @@
 # 奋战2022高考! FIGHT FOR 2022 GAOKAO 
 
-<img src="https://github.com/rivertwilight/rivertwilight/blob/master/bilibili.png" width="500" />
-
 ![](https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true)
 
 ### Platform & Tools
