@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" align="right" height="130" width="500">
+<img src="https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&icon_color=0366d6&bg_color=ffffff&hide_title=true&hide=contribs&include_all_commits=true" align="right" height="130" width="480">
 
 缺月挂疏桐，漏断人初静。时见幽人独往来，缥缈孤鸿影。
 
