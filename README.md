@@ -8,4 +8,6 @@
 
 <hr />
 
+Dedicated on Front-end development based on Typescript, React and more, and Game development. Also love piano and painting.
+
 [🎨Pixiv](https://www.pixiv.net/en/users/35572742) | [✍️Blog](https://rene.wang) | [Wechat Official Account]()
