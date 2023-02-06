@@ -8,6 +8,6 @@
 
 <hr />
 
-Dedicated on Front-end development based on Typescript, React and more, and Game development. Also love piano and painting.
+A seasoned front-end software engineer with a passion for developing cutting-edge applications using Typescript, React, and other cutting-edge technologies. Also an enthusiast of the arts, including piano and painting. Open source advocate and always eager to contribute to the development community.
 
 [🎨Pixiv](https://www.pixiv.net/en/users/35572742) | [✍️Blog](https://rene.wang) | [Wechat Official Account]()
