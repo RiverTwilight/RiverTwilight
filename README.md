@@ -8,6 +8,6 @@
 
 <hr />
 
-A seasoned front-end software engineer with a passion for developing cutting-edge applications using Typescript, React, and other cutting-edge technologies. Also an enthusiast of the arts, including piano and painting. Open source advocate and always eager to contribute to the development community.
+I am a versatile developer with expertise in front-end development using Typescript, React, and Vue, as well as game development with Unity. I have a strong interest in deep learning and am proficient in backend development with NodeJS. My GitHub page showcases my skills and projects. I am open to collaborations with other developers. Open source advocate and always eager to contribute to the development community.
 
 [🎨Pixiv](https://www.pixiv.net/en/users/35572742) | [✍️Blog](https://rene.wang) | [Wechat Official Account]()
