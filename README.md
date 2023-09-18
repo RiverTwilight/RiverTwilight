@@ -16,7 +16,7 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivertwilight&hide=shaderlab,jupyter+notebook,mathematica&hide_progress=true&langs_count=8" align="right" height="203" width="435">
 
-Hello! I'm an enthusiastic indie developer specializing in **Web, Game and AI research**. I'm a firm believer in open source and always eager to contribute to the development community.
+Hello! I'm an enthusiastic indie developer specializing in **Web, iOS, Game and AI**. I'm a firm believer in open source and always eager to contribute to the development community.
 
 To me, software is like a powerful force capable of changing the world. No matter what tech stack you're working with, feel free to contact me so we can build awesome things together.
 
