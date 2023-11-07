@@ -25,7 +25,9 @@ Best wishes to all who see this ❤️. Remember to stay engaged with your life 
 </div>
 <hr />
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,ts,python,html,css,sass,vue,figma,tailwind,godot,blender,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,flutter,python,html,css,sass,vue,tailwind,docker,vercel)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=figma,unity,godot,blender,ps,tensorflow)](https://skillicons.dev)
 
 <hr />
 
