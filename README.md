@@ -18,16 +18,16 @@
 
 Hello! I'm an enthusiastic indie developer specializing in **Web, iOS, Game and AI**. I'm a firm believer in open source and always eager to contribute to the development community.
 
-To me, software is like a powerful force capable of changing the world. No matter what tech stack you're working with, feel free to contact me so we can build awesome things together.
+Started coding at age of 14, I'm also interested in 3D art. Feel free to reach me out, let's get connected!
 
 Best wishes to all who see this ❤️. Remember to stay engaged with your life and enjoy every moment.
 
 </div>
 <hr />
 
-[![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,flutter,python,html,css,sass,vue,tailwind,docker,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,flutter,html,css,sass,mui,tailwind,docker,vercel,supabase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,unity,godot,blender,ps,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,unity,godot,blender,ps,python,tensorflow,notion)](https://skillicons.dev)
 
 <hr />
 
