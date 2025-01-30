@@ -1,33 +1,26 @@
 <div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RiverTwilight&show_icons=true&hide_title=true&hide=contribs&include_all_commits=true" align="right" height="110" width="440">
-
-> **卜算子 · 黄州定慧院寓居作 | 苏东坡**
-> 
-> 缺月挂疏桐，漏断人初静。时见幽人独往来，缥缈孤鸿影。
-> 
-> 惊起却回头，有恨无人省。拣尽寒枝不肯栖，寂寞沙洲冷。
+[![RiverTwilight's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rivertwilight&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
-
-<hr/>
 
 <div>
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivertwilight&hide=shaderlab,jupyter+notebook,mathematica&hide_progress=true&langs_count=8" align="right" height="203" width="435">
 
-Hello! I'm an enthusiastic indie developer specializing in **Web, iOS, Game and AI**. I'm a firm believer in open source and always eager to contribute to the development community.
+I write code. Started when I was 14, though that matters less than what I've actually built. I build indie software products because I believe in individual creators making things of value. You can find some of them at [ygeeker.com](https://www.ygeeker.com).
 
-Started coding at age of 14, I'm also interested in 3D art. Feel free to reach me out, let's get connected!
+Open source isn't just a buzzword to me - I contribute because good code should be shared and built upon. That's how progress happens.
 
-Best wishes to all who see this ❤️. Remember to stay engaged with your life and enjoy every moment.
+If you have ideas, email me. Simple ideas executed well beat complicated ideas executed poorly. The best collaborations often start with a casual conversation.
+
+And since you're reading this: do things that matter to you. Most people spend their lives doing what they think they're supposed to do instead of what interests them. Don't fall into that trap.
 
 </div>
+
 <hr />
 
 [![My Skills](https://skillicons.dev/icons?i=react,next,js,ts,flutter,html,css,sass,mui,tailwind,docker,vercel,supabase)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=unity,androidstudio,godot,blender,ps,python,tensorflow,notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=yarn,go,python,unity,androidstudio,godot,blender,ps,tensorflow,notion,figma)](https://skillicons.dev)
 
 <hr />
 
