@@ -6,7 +6,7 @@
 
 <div>
 
-I write code. Started when I was 14, though that matters less than what I've actually built. I build indie software products because I believe in individual creators making things of value. You can find some of them at [ygeeker.com](https://www.ygeeker.com).
+I write code to craft. Started when I was 14, though that matters less than what I've actually built. You can find some of my crafts at [ygeeker.com](https://www.ygeeker.com).
 
 Open source isn't just a buzzword to me - I contribute because good code should be shared and built upon. That's how progress happens.
 
